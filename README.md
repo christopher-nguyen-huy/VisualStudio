@@ -1,7 +1,7 @@
 # Visual studio
 
 ## Setup
-### Tools->Customize
+### Tools -> Customize
 - Disable text editor toolbar
 
 ### Tools -> Options
