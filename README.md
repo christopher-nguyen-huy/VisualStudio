@@ -60,7 +60,7 @@
 			- Disable show items from unimported namespaces
 			
 ### Tools -> Import Settings
-Get themse at [studiostyl.es](https://studiostyl.es/)
+Get themes at [studiostyl.es](https://studiostyl.es/)
 
 See themes folder
 	
